@@ -37,7 +37,7 @@ microphone data and sampling times were recorded.
 
 Each of the calibration measurements and true measurements were processed using the provided
 
-```
+```matlab
 function, which converted the signal data into received pulse times for each microphone.
 ```
 The microphone's cartesian coordinates were:
